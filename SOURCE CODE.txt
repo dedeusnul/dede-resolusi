@@ -20,7 +20,7 @@
     <td>DEDE USNUL IKHSAN</td>
    </tr>
    <tr>
-    <td align="right">mother's name:</td>
+    <td align="right">Mother's Name:</td>
     <td>ROSLIANA</td>
    </tr>
    <tr>
