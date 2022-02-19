@@ -1,0 +1,94 @@
+<!doctype html>
+<html>
+    <head>
+       <title>DEDE-ILMU KOMPUTER-B</title>
+    </head> 
+    <body>
+        <body style="background-color:white"> </body>
+    <h1 align="center">BIODATA</h1>
+        <tr>
+            <center>
+                <td rowspan="7"><img src="IMG_20210619_161705_184.jpg" width="300"></td>
+            </center>
+        </tr>
+  <table width="800" border="0" align="center" cellpadding="5">
+   <tr>
+    <td colspan="2">Basic Info<hr/></td>
+   </tr>
+   <tr>
+    <td width="50%" align="right">Full Name:</td>
+    <td>DEDE USNUL IKHSAN</td>
+   </tr>
+   <tr>
+    <td align="right">mother's name:</td>
+    <td>ROSLIANA</td>
+   </tr>
+   <tr>
+    <td align="right">Age:</td>
+    <td>19 Years</td>
+   </tr>
+   <tr>
+    <td align="right">Date of Birth:</td>
+    <td>23<sup>th</sup> December</td>
+   </tr>
+   <tr>
+    <td align="right">Religion:</td>
+    <td>Islam</td>
+   </tr>
+   <tr>
+    <td align="right">Nationality:</td>
+    <td>Indonesia</td>
+   </tr>
+   <tr>
+    <td colspan="2">Contact Details<hr/></td>
+   </tr>
+   <tr>
+    <td align="right" valign="top">Address:</td>
+    <td>Desa Padang Hilir</br>
+    Kecamatan Susoh, Kabupaten Aceh Barat Daya,</br>
+    Nanggroe Aceh Darussalam</td>
+   </tr>
+   <tr>
+    <td align="right" valign="top">Phone Number:</td>
+    <td>(D)081317128183</br>
+    (D)081317128183</td>
+   </tr>
+   <tr>
+    <td align="right">Email Address:</td>
+    <td>ikhsandede15@gmail.com</td>
+   </tr>
+   <tr>
+    <td colspan="2">Eduction & Knowledge<hr/></td>
+   </tr>
+   <tr>
+    <td align="right">Language:</td>
+    <td>Indonesia, Aceh, Jamee</td>
+   </tr><tr>
+    <td align="right">Eduction:</td>
+    <td>S1 ILMU KOMPUTER</td>
+   </tr><tr>
+    <td align="right">Other Knowledge:</td>
+    <td>Ms Office, instalation computer, Photoshop & Flash</td>
+   </tr><tr>
+    <td align="right">Hobbies:</td>
+    <td>Computer,sport, Travelling</td>
+   </tr>
+   <tr>
+    <td colspan="2">Work<hr/></td>
+   </tr>
+   <tr>
+    <td align="right" valign="top">Work Experience:</td>
+    <td>(1)service computer<br/>
+    </td>
+   </tr>
+   <tr>
+    <td colspan="2">About Me<hr/></td>
+   </tr>
+   <tr>
+    <td colspan="2">I am a hard working person.Teaching is my passion.Since years I have worked with students to help them sharpen their skills.<hr/></td>
+   </tr>
+  </table>
+
+</body>
+</html>
+    </body>
